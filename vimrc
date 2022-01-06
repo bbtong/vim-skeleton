@@ -29,5 +29,6 @@ endif
 " add lightline
 Plug 'itchyny/lightline.vim'
 
+Plug 'junegunn/rainbow_parentheses.vim'
 
 call plug#end()
